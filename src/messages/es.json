@@ -1,0 +1,53 @@
+{
+  "landing": {
+    "title": "Tarea Escolar 📚",
+    "description": "Tu hijo pregunta, el tutor enseña a resolver. Sin dar la resposta direta — porque aprender haciendo es lo que importa.",
+    "cta": "Empezar ahora — es gratis",
+    "no_signup": "Sin registro. Sin instalar nada.",
+    "how_title": "Cómo funciona",
+    "step1_title": "Tu pregunta",
+    "step1_desc": "El niño escribe su duda de la tarea",
+    "step2_title": "El tutor piensa contigo",
+    "step2_desc": "Pistas y preguntas para guiar el razonamiento",
+    "step3_title": "Llegas tú solo",
+    "step3_desc": "El niño resuelve solo y aprende de verdad",
+    "subjects_title": "Materias disponibles",
+    "footer": "Sin recolección de datos · Gratuito · Hecho para estudiantes"
+  },
+  "chat": {
+    "title": "Tarea Escolar 📚",
+    "placeholder": "Escribe tu pregunta...",
+    "send": "Enviar",
+    "thinking": "Pensando...",
+    "initial_message": "¡Hola! ¿Cuál es la duda de la tarea de hoy? 📚",
+    "grade_label": "Año escolar",
+    "subject_label": "Materia",
+    "config_button": "⚙️ Configurar",
+    "char_limit": "caracteres",
+    "upload_image": "Subir imagen",
+    "record_audio": "Grabar audio",
+    "stop_recording": "Detener grabación"
+  },
+  "errors": {
+    "rate_limit": "¡Muchas preguntas! Espera un momento 😊",
+    "empty": "Pregunta vacía",
+    "safe": "No puedo responder eso. ¡Mándame una pregunta de la escuela! 😊",
+    "no_direct_answer": "No puedo darte la respuesta final directamente, pero puedo ayudarte a llegar paso a paso. Dime qué intentaste y en qué te trabaste.",
+    "ask_attempt_photo_math": "Si es matemáticas, puedes mandar una foto de tu intento (pasos y cuentas) y te ayudo a encontrar el error.",
+    "generic": "Algo salió mal. ¡Inténtalo de novo!"
+  },
+  "grades": {
+    "1": "1° grado", "2": "2° grado", "3": "3° grado",
+    "4": "4° grado", "5": "5° grado", "6": "6° grado",
+    "7": "7° grado", "8": "8° grado", "9": "9° grado"
+  },
+  "subjects": {
+    "matematica": "Matemáticas",
+    "portugues": "Lengua",
+    "ciencias": "Ciencias",
+    "historia": "Historia",
+    "geografia": "Geografía",
+    "ingles": "Inglés",
+    "outro": "Otro"
+  }
+}

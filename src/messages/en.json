@@ -1,0 +1,53 @@
+{
+  "landing": {
+    "title": "Homework Helper 📚",
+    "description": "Your child asks the question, the tutor teaches how to solve it. No ready-made answers — because learning by doing is what matters.",
+    "cta": "Start now — it's free",
+    "no_signup": "No sign-up. Nothing to install.",
+    "how_title": "How it works",
+    "step1_title": "Your question",
+    "step1_desc": "The child types their homework question",
+    "step2_title": "Tutor thinks along",
+    "step2_desc": "Hints and questions to guide reasoning",
+    "step3_title": "You get there",
+    "step3_desc": "The child solves it and truly learns",
+    "subjects_title": "Available subjects",
+    "footer": "No personal data collected · Free · Made for students"
+  },
+  "chat": {
+    "title": "Homework Helper 📚",
+    "placeholder": "Type your question...",
+    "send": "Send",
+    "thinking": "Thinking...",
+    "initial_message": "Hi! What's today's homework question? 📚",
+    "grade_label": "School year",
+    "subject_label": "Subject",
+    "config_button": "⚙️ Settings",
+    "char_limit": "characters",
+    "upload_image": "Upload image",
+    "record_audio": "Record audio",
+    "stop_recording": "Stop recording"
+  },
+  "errors": {
+    "rate_limit": "Too many questions! Wait a moment 😊",
+    "empty": "Empty question",
+    "safe": "I can't answer that. Send me a school question! 😊",
+    "no_direct_answer": "I can’t give the final answer directly, but I can help you get there step by step. Tell me what you tried and where you got stuck.",
+    "ask_attempt_photo_math": "If it’s math, you can send a photo of your work (steps and calculations) and I’ll help you find the mistake.",
+    "generic": "Something went wrong. Try again!"
+  },
+  "grades": {
+    "1": "1st grade", "2": "2nd grade", "3": "3rd grade",
+    "4": "4th grade", "5": "5th grade", "6": "6th grade",
+    "7": "7th grade", "8": "8th grade", "9": "9th grade"
+  },
+  "subjects": {
+    "matematica": "Math",
+    "portugues": "Language Arts",
+    "ciencias": "Science",
+    "historia": "History",
+    "geografia": "Geography",
+    "ingles": "English",
+    "outro": "Other"
+  }
+}

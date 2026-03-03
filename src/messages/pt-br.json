@@ -1,0 +1,53 @@
+{
+  "landing": {
+    "title": "Lição de Casa 📚",
+    "description": "Seu filho cola a dúvida, o tutor ensina a resolver. Sem entregar a resposta pronta — porque aprender fazendo é o que vale.",
+    "cta": "Começar agora — é grátis",
+    "no_signup": "Sem cadastro. Sem instalar nada.",
+    "how_title": "Como funciona",
+    "step1_title": "Sua dúvida",
+    "step1_desc": "A criança digita a dúvida da lição",
+    "step2_title": "O tutor pensa junto",
+    "step2_desc": "Dicas e perguntas para guiar o raciocínio",
+    "step3_title": "Você chega lá",
+    "step3_desc": "A criança resolve sozinha e aprende de verdade",
+    "subjects_title": "Matérias disponíveis",
+    "footer": "Sem coleta de dados pessoais · Gratuito · Feito para o Brasil"
+  },
+  "chat": {
+    "title": "Lição de Casa 📚",
+    "placeholder": "Digite sua dúvida...",
+    "send": "Enviar",
+    "thinking": "Pensando...",
+    "initial_message": "Oi! Qual é a dúvida da lição de hoje? 📚",
+    "grade_label": "Ano escolar",
+    "subject_label": "Matéria",
+    "config_button": "⚙️ Configurar",
+    "char_limit": "caracteres",
+    "upload_image": "Enviar imagem",
+    "record_audio": "Gravar áudio",
+    "stop_recording": "Parar gravação"
+  },
+  "errors": {
+    "rate_limit": "Muitas perguntas! Espera um pouquinho 😊",
+    "empty": "Pergunta vazia",
+    "safe": "Essa pergunta não consigo responder. Me manda uma dúvida da escola! 😊",
+    "no_direct_answer": "Eu não posso te dar a resposta final pronta, mas posso te ajudar a chegar nela passo a passo. Me diz o que você já tentou e onde travou.",
+    "ask_attempt_photo_math": "Se for matemática, pode mandar uma foto da sua tentativa (contas e passos) que eu te ajudo a achar o erro.",
+    "generic": "Algo deu errado. Tenta de novo!"
+  },
+  "grades": {
+    "1": "1º ano", "2": "2º ano", "3": "3º ano",
+    "4": "4º ano", "5": "5º ano", "6": "6º ano",
+    "7": "7º ano", "8": "8º ano", "9": "9º ano"
+  },
+  "subjects": {
+    "matematica": "Matemática",
+    "portugues": "Português",
+    "ciencias": "Ciências",
+    "historia": "História",
+    "geografia": "Geografia",
+    "ingles": "Inglês",
+    "outro": "Outro"
+  }
+}
